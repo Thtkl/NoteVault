@@ -9,9 +9,7 @@ The encrypted notes are saved as text files on your **Desktop** with a name base
 - Decrypt your notes by reading from the saved text files.
 - Simple and user-friendly.
 
-## Requirements
+## Requirement library
 
-- Python 3.x
 - Tkinter
 - cryptography
-
